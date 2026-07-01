@@ -1,4 +1,4 @@
-# Financial_new_Project
+# Financial_new Project
 ## 1. Project Overview
 
 This project investigates the relationship between financial news sentiment 
